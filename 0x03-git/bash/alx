@@ -1,2 +1,4 @@
 echo "ALX"
 less alx
+#!/bin/bash
+echo"ALX" 
